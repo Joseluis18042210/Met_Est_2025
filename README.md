@@ -5,12 +5,12 @@ Repositorio del curso de Métodos Estadísticos Agosto 2025 del programa de inge
 
 ## Contenido
 
-06/08/2025: Inicio de curso de metodos estadisticos
+**06/08/2025: Inicio de curso de metodos estadisticos**
   + Preparar mi area de trabajo 
   + Crear cuenta de github "joseluis"
   + Los maestros son muy amables
   
-07/08/2025: Sincronizar Github con mi proyeto 
+**07/08/2025: :fearful: Sincronizar Github con mi proyeto**
 
   + Crear version control
   + Bases para un uso eficiente en R
