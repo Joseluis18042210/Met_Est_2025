@@ -3,7 +3,7 @@
 
 Repositorio del curso de Métodos Estadísticos Agosto 2025 del programa de ingeniero forestal 
 
-##Contenido
+## Contenido
 
 06/08/2025: Inicio de curso de metodos estadisticos
   +Preparar mi area de trabajo 
