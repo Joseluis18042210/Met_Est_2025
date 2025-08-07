@@ -10,7 +10,7 @@ Repositorio del curso de Métodos Estadísticos Agosto 2025 del programa de inge
   + Crear cuenta de github "joseluis"
   + Los maestros son muy amables
   
-07/08/2025: Sincronizar Github con mi projeto 
+07/08/2025: Sincronizar Github con mi proyeto 
 
   + Crear version control
   + Bases para un uso eficiente en R
